@@ -1,12 +1,12 @@
 import Header from './components/Header'
-import UserForm from './components/UserForm'
+import UserInput from './components/UserInput'
 import Result from './components/Result'
 
 function App() {
   return (
     <>
       <Header />
-      <UserForm />
+      <UserInput />
       <Result />
     </>
   )
